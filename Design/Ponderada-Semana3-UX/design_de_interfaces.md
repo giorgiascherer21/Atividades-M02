@@ -27,7 +27,7 @@
 
 &ensp; O objetivo da página é servir como ponto inicial da experiência no Spotify, permitindo que o usuário retome rapidamente conteúdos já conhecidos enquanto explora novas recomendações personalizadas, mantendo os controles de reprodução acessíveis durante toda a navegação.
 
-- **Barra lateral esquerda**: Uma coluna estreita que exibe apenas ícones, sem rótulos de texto, funcionando como o menu de navegação global. É nela que o usuáio encontra os acessos para Home, busca, biblioteca e atalhos para playlists fixadas pelo usuário. A escolha de manter a barra reduzida libera espaço para o conteúdo principal, mas exige que o usuário já reconheça os ícones para navegar sem dificuldade, mantendo um trade-off entre simplicidade e descoberta da interface.
+- **Barra lateral esquerda**: Uma coluna estreita que exibe apenas ícones, sem rótulos de texto, funcionando como o menu de navegação global. É nela que o usuário encontra os acessos para Home, busca, biblioteca e atalhos para playlists fixadas pelo usuário. A escolha de manter a barra reduzida libera espaço para o conteúdo principal, mas exige que o usuário já reconheça os ícones para navegar sem dificuldade, mantendo um trade-off entre simplicidade e descoberta da interface.
 
 - **Área central (conteúdo principal)**: Ocupa a maior parte da tela e concentra dois blocos de conteúdo com propósitos distintos:
 
@@ -57,7 +57,7 @@
 
 &ensp; O plano de estratégia é o ponto de partida de qualquer produto digital, sendo responsável por definir quais objetivos o produto precisa atender tanto para o negócio quanto para o usuário.
 
-&ensp;No Spotify, os objetivos do produto estão diretamente relacionados ao aumento do tempo de escuta e da retenção dos usuários dentro da plataforma, já que isso sustenta tanto as assinaturas premium quanto o modelo de receita baseado em publicidade.
+&ensp; No Spotify, os objetivos do produto estão diretamente relacionados ao aumento do tempo de escuta e da retenção dos usuários dentro da plataforma, já que isso sustenta tanto as assinaturas premium quanto o modelo de receita baseado em publicidade. Essa estratégia se reflete inclusive em decisões que priorizam o usuário frequente, como por exemplo a barra lateral reduzida a ícones sem rótulos de texto, que favorece a eficiência de quem já conhece a interface, mesmo que isso represente uma barreira inicial de descobribilidade para novos usuários.
 
 &ensp; Já do lado do usuário, a principal necessidade é conseguir acessar rapidamente conteúdos conhecidos, retomar reproduções anteriores e descobrir novas músicas sem precisar realizar buscas constantes dentro da plataforma.
 
@@ -135,11 +135,27 @@
   <br>
 </div>
 
+---
 
 # 5. Revisão do colega:
 
 ## 5.1. Nome do revisor
 
+### Nathiele Goncalves
+
 ## 5.2. Feedback recebido
 
+&ensp; A atividade foi revisada pela minha colega Nathiele Gonçalves, que apontou duas observações principais. A primeira foi um erro de digitação na seção 2.2, onde “usuáio” deveria ser “usuário”, correção que já foi realizada.
+
+&ensp; Além disso, ela destacou que a análise do plano de Estratégia poderia aprofundar melhor como determinadas decisões da interface atendem diferentes perfis de usuário dentro da plataforma. O ponto levantado foi a barra lateral composta majoritariamente por ícones sem rótulos de texto, uma escolha que favorece usuários recorrentes por tornar a navegação mais rápida e compacta, mesmo reduzindo parte da descobribilidade para quem ainda não possui familiaridade com a interface. O comentário foi relevante por mostrar que algumas decisões estratégicas do Spotify priorizam eficiência de uso a partir do comportamento esperado do público mais frequente da plataforma.
+
+
 ## 5.3. Demonstração da melhoria (antes x depois da revisão)
+
+&ensp; A partir do feedback recebido, a análise do plano de Estratégia foi revisada para incorporar de forma mais explícita a relação entre decisões de interface e diferentes perfis de usuário. A versão inicial discutia retenção e tempo de uso de maneira mais geral, enquanto a versão revisada passou a considerar como determinadas escolhas da Home priorizam eficiência para usuários já familiarizados com a plataforma.
+
+**Antes:**
+> *"No Spotify, os objetivos do produto estão diretamente relacionados ao aumento do tempo de escuta e da retenção dos usuários dentro da plataforma, já que isso sustenta tanto as assinaturas premium quanto o modelo de receita baseado em publicidade."*
+
+**Depois:**
+> *"No Spotify, os objetivos do produto estão diretamente relacionados ao aumento do tempo de escuta e da retenção dos usuários dentro da plataforma, já que isso sustenta tanto as assinaturas premium quanto o modelo de receita baseado em publicidade. Essa estratégia se reflete inclusive em decisões que priorizam o usuário frequente, como por exemplo a barra lateral reduzida a ícones sem rótulos de texto, que favorece a eficiência de quem já conhece a interface, mesmo que isso represente uma barreira inicial de descobribilidade para os novos usuários."*
