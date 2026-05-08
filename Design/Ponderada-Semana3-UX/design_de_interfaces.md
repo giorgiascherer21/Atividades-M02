@@ -113,7 +113,7 @@
 
 &ensp; Após analisar a interface do Spotify pelos planos de Garrett, fica claro que o esqueleto da página sustenta a experiência antes mesmo de qualquer elemento visual ser aplicado. O wireframe é justamente a ferramenta que permite testar essa lógica estrutural de forma rápida, construindo um esboço de baixa fidelidade focado exclusivamente em posicionamento, hierarquia e funcionalidade. Sua função não é representar como a interface vai parecer, mas sim validar como ela vai funcionar.
 
-### 4.1.Grid
+### 4.1. Grid
 
 &ensp; Antes de desenhar o wireframe, porém, é importante definir o sistema de grid que vai organizar a disposição dos elementos na tela. O grid é a estrutura invisível que sustenta o layout, garantindo alinhamento, consistência e proporção entre as áreas da interface. 
 
