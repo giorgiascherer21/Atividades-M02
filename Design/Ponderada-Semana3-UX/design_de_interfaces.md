@@ -1,3 +1,5 @@
+# Atividade Ponderada de Design 01: Análise de interface e Wireframe
+
 # 1. Introdução
 
 &ensp; Esta atividade propõe a análise de uma interface digital com foco na estrutura, organização da informação e decisões de design, utilizando como referência os cinco planos de Jesse James Garrett. O objetivo não é avaliar aspectos estéticos, mas compreender como a interface foi construída e como ela orienta a interação do usuário.
