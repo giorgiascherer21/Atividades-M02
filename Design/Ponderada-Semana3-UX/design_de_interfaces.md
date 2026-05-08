@@ -35,7 +35,7 @@
 
     - **Recomendações personalizadas:** a seção "Feito para Giorgia Scherer" apresenta uma fileira horizontal de cards quadrados dos Daily Mixes (01 a 06), cada um com imagem de capa e artistas representativos. O uso do nome real da usuária reforça a sensação de curadoria individual, aproximando o produto de quem o utiliza e tornando a interface menos genérica.
 
- - **Painel lateral direito** — Exibe informações expandidas sobre a faixa em reprodução: capa do álbum em tamanho grande, título da música, artista e videoclipes relacionados. Esse painel funciona como uma extensão contextual do player, oferecendo profundidade ao que está tocando sem exigir que o usuário saia da tela inicial, o conteúdo complementar fica acessível sem interromper a navegação principal.
+ - **Painel lateral direito**: Exibe informações expandidas sobre a faixa em reprodução: capa do álbum em tamanho grande, título da música, artista e videoclipes relacionados. Esse painel funciona como uma extensão contextual do player, oferecendo profundidade ao que está tocando sem exigir que o usuário saia da tela inicial, o conteúdo complementar fica acessível sem interromper a navegação principal.
 
 - **Player inferior**: Barra fixa no rodapé que reúne os seguintes componentes:
 
